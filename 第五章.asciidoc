@@ -43,7 +43,7 @@ https://en.wikipedia.org/wiki/Cryptography
 Trapdoor函數：
 https://en.wikipedia.org/wiki/Trapdoor_function
 
-素因子分解：
+因數分解：
 https://en.wikipedia.org/wiki/Integer_factorization
 
 離散對數：
